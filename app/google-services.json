@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "825496974671",
+    "firebase_url": "https://travelmanticsdemo-ea5c4.firebaseio.com",
+    "project_id": "travelmanticsdemo-ea5c4",
+    "storage_bucket": "travelmanticsdemo-ea5c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825496974671:android:d8abae13f59b1bc8",
+        "android_client_info": {
+          "package_name": "tz.naamini.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825496974671-ptcigh8shsq9ooegvt5ge3mgjgi7pgra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tz.naamini.travelmantics",
+            "certificate_hash": "848c6b39c80c88e05873f05ab5b2decf97756020"
+          }
+        },
+        {
+          "client_id": "825496974671-mcnbigoe354gnqh6k4bqi3b1e6q10u0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHrJTmDvS9kANghD4LHGMyhM4A8Kqt7zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825496974671-mcnbigoe354gnqh6k4bqi3b1e6q10u0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
